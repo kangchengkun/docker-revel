@@ -3,9 +3,9 @@
 
 ## Supported tags and respective `Dockerfile` link
 
-* `latest` _[(/Dockerfile)](https://github.com/kterada0509/docker-s3rver/blob/master/Dockerfile)_
-* `1.7` _[(/1.7/Dockerfile)](https://github.com/kterada0509/docker-s3rver/blob/master/1.7/Dockerfile)_
-* `1.6` _[(/1.6/Dockerfile)](https://github.com/kterada0509/docker-s3rver/blob/master/1.6/Dockerfile)_
+* `latest` _[(/Dockerfile)](https://github.com/kterada0509/docker-revel/blob/master/Dockerfile)_
+* `1.7` _[(/1.7/Dockerfile)](https://github.com/kterada0509/docker-revel/blob/master/1.7/Dockerfile)_
+* `1.6` _[(/1.6/Dockerfile)](https://github.com/kterada0509/docker-revel/blob/master/1.6/Dockerfile)_
 
 
 
