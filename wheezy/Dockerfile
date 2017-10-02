@@ -1,7 +1,7 @@
 FROM golang:wheezy
 EXPOSE 9000
 
-MAINTAINER Kentaro Terada kterada.0509sg@gmail.com
+LABEL maintainer="kterada.0509sg@gmail.com"
 
 RUN set -x \
     && curl https://glide.sh/get | sh \

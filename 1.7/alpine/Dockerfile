@@ -1,7 +1,7 @@
 FROM golang:1.7-alpine
 EXPOSE 9000
 
-MAINTAINER Kentaro Terada kterada.0509sg@gmail.com
+LABEL maintainer="kterada.0509sg@gmail.com"
 
 RUN apk add --no-cache git curl \
     && rm -rf /var/cache/apk/*

@@ -1,7 +1,7 @@
 FROM golang:1.6
 EXPOSE 9000
 
-MAINTAINER Kentaro Terada kterada.0509sg@gmail.com
+LABEL maintainer="kterada.0509sg@gmail.com"
 
 RUN set -x \
     && go get -v github.com/revel/revel \
