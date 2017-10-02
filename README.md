@@ -4,21 +4,17 @@
 ## Supported tags and respective `Dockerfile` link
 
 * `latest` _[(/Dockerfile)](https://github.com/kterada0509/docker-revel/blob/master/Dockerfile)_
-    * `wheezy` _[(/wheezy/Dockerfile)](https://github.com/kterada0509/docker-revel/blob/master/wheezy/Dockerfile)_
     * `alpine` _[(/alpine/Dockerfile)](https://github.com/kterada0509/docker-revel/blob/master/alpine/Dockerfile)_
     * `stretch` _[(/stretch/Dockerfile)](https://github.com/kterada0509/docker-revel/blob/master/stretch/Dockerfile)_
 * `1.9` _[(/1.9/Dockerfile)](https://github.com/kterada0509/docker-revel/blob/master/1.9/Dockerfile)_
     * `1.9-alpine` _[(/1.9/alpine/Dockerfile)](https://github.com/kterada0509/docker-revel/blob/master/1.9/alpine/Dockerfile)_
     * `1.9-stretch` _[(/1.9/stretch/Dockerfile)](https://github.com/kterada0509/docker-revel/blob/master/1.9/stretch/Dockerfile)_
 * `1.8` _[(/1.8/Dockerfile)](https://github.com/kterada0509/docker-revel/blob/master/1.8/Dockerfile)_
-    * `1.8-wheezy` _[(/1.8/wheezy/Dockerfile)](https://github.com/kterada0509/docker-revel/blob/master/1.8/wheezy/Dockerfile)_
     * `1.8-alpine` _[(/1.8/alpine/Dockerfile)](https://github.com/kterada0509/docker-revel/blob/master/1.8/alpine/Dockerfile)_
     * `1.8-stretch` _[(/1.9/stretch/Dockerfile)](https://github.com/kterada0509/docker-revel/blob/master/1.8/stretch/Dockerfile)_
 * `1.7` _[(/1.7/Dockerfile)](https://github.com/kterada0509/docker-revel/blob/master/1.7/Dockerfile)_
-    * `1.7-wheezy` _[(/1.7/wheezy/Dockerfile)](https://github.com/kterada0509/docker-revel/blob/master/1.7/wheezy/Dockerfile)_
     * `1.7-alpine` _[(/1.7/alpine/Dockerfile)](https://github.com/kterada0509/docker-revel/blob/master/1.7/alpine/Dockerfile)_
 * `1.6` _[(/1.6/Dockerfile)](https://github.com/kterada0509/docker-revel/blob/master/1.6/Dockerfile)_
-    * `1.6-wheezy` _[(/1.6/wheezy/Dockerfile)](https://github.com/kterada0509/docker-revel/blob/master/1.6/wheezy/Dockerfile)_
     * `1.6-alpine` _[(/1.6/alpine/Dockerfile)](https://github.com/kterada0509/docker-revel/blob/master/1.6/alpine/Dockerfile)_
 
 
