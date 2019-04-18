@@ -1,6 +1,0 @@
-revel:
-  build: .
-  dockerfile: ./1.7/Dockerfile
-  ports:
-    - "9000:9000"
-  restart: on-failure
